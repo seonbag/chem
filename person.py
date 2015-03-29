@@ -1,4 +1,5 @@
 #start
+#Exprimental with Switches???
 name = raw_input('What is your name?\n')
 print 'Hi, %s.' % name
 print 'You know I always enjoy having you as a friend, %s' % name
