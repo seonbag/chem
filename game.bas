@@ -1,3 +1,7 @@
+'Just me exprimenting with BASIC'
+' Also not knowing what I am doing.'
+' If you compile this and it doesn't work correctly (likely)'
+ 'Please let me know'
 REM VARS:
 REM $1 = Player Name
 
